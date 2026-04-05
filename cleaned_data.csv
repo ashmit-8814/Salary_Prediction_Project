@@ -1,0 +1,13 @@
+Customer_ID,Name,Age,Gender,City,Salary,Join_Date
+1,Amit Sharma,25.0,Male,Mumbai,50000.0,2022-01-15
+2,Priya Singh,30.0,Female,Delhi,60000.0,2022-02-20
+3,Rahul Verma,30.0,Male,Delhi,60500.0,2022-03-10
+4,Neha Gupta,28.0,Female,Mumbai,52000.0,2022-03-10
+5,Arjun Patel,35.0,Male,Unknown,70000.0,2022-05-12
+6,Kavya Nair,27.0,Female,Bangalore,60500.0,2022-06-18
+7,Rohit Mehta,29.0,Male,Mumbai,58000.0,2022-07-22
+8,Sneha Reddy,30.0,Female,Hyderabad,62000.0,2022-08-30
+9,Vikas Jain,31.0,Male,Delhi,61000.0,2022-08-30
+10,Anjali Desai,26.0,Female,Mumbai,55000.0,2022-10-05
+11,Karan Malhotra,40.0,Male,Delhi,80000.0,2022-11-11
+12,Pooja Shah,29.0,Female,Bangalore,72000.0,2022-12-01
